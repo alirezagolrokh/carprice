@@ -8,7 +8,7 @@ This script takes the name, model, kilometer, and production date of the machine
 
 Install<a href="https://www.python.org/downloads/"> Python3 </a>in your system
 
-Install<a href="https://dev.mysql.com/downloads/"> mysql database </a>in your system and Creating a new database
+Install<a href="https://dev.mysql.com/downloads/"> mysql database </a>in your system and Creating a new database (Remember DB name and password)
 
 Open terminal or command prompt and Enter commands below:
 
